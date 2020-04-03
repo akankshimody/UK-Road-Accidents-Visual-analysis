@@ -23,7 +23,7 @@ Some of our variables are: Accident_Severity, Number_of_Vehicles, Number_of_Casu
 
 **Number of accidents with respect to time of day:**<br>
 <img src="https://github.com/akankshimody/UK-Road-Accidents-Visual-analysis/blob/master/images/Time1.png" alt="Image1" width="500"/><br><br>
-Number of accidents are highest during peak hours on weekdays(15:00 to 18:00 and 8:00) when people are commuting to work. <br><br>
+Number of accidents are highest during peak hours on weekdays when people are commuting to work. <br><br>
 **Difference between Weekdays and Weekends:**<br>
 <img src="https://github.com/akankshimody/UK-Road-Accidents-Visual-analysis/blob/master/images/Time2.png" alt="Image1" width="400"/><br><br>
 High percentage of accidents during late-night and early morning hours on weekends. This could possibly involve drunk driving incidents.<br><br>
@@ -35,7 +35,7 @@ We observed a decrease in the % of accidents over the years even though there ha
 
 **Trends for different types of Junction Controls:**<br>
 <img src="https://github.com/akankshimody/UK-Road-Accidents-Visual-analysis/blob/master/images/JunctionControl1.png" alt="Image1" width="400"/><br><br>
-'Give-way or uncontrolled' is six times more probable than Automatic traffic signal. Even adding a basic form of junction control could reduce the number of accidents greatly. <br><br>
+An accident where Junction Control is 'Give-way or uncontrolled' is six times more probable than when there is a presence of Automatic traffic signal. Even adding a basic form of junction control could reduce the number of accidents greatly. <br><br>
 **Junction Control with respect to Speed Limit:**<br>
 <img src="https://github.com/akankshimody/UK-Road-Accidents-Visual-analysis/blob/master/images/JunctionControl2.png" alt="Image1" width="400"/><br><br>
 Highest number of accidents occur when it’s a giveway and speed limit is 30. Possibly people are overspeeding and hence, higher number of accidents.
@@ -67,7 +67,7 @@ Percentage of crashes in darkness with no streetlights that were fatal are more 
 
 **Trends for different types of Roads:**<br>
 <img src="https://github.com/akankshimody/UK-Road-Accidents-Visual-analysis/blob/master/images/SingleCarriageway.png" alt="Image1" width="400"/><br><br>
-Single carriageway is the most common road with accidents at night and 60 MPH speed limit and most are rural roads with no divider.<br?
+Single carriageway is the most common road with accidents at night and 60 MPH speed limit and most are rural roads with no divider.<br>
 <br>
 
 ## Recommendations
