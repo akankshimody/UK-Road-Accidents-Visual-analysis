@@ -75,6 +75,6 @@ Single carriageway is the most common road with accidents at night and 60 MPH sp
 Based on our analysis, our recommendations are as follows: <br>
 1. Increase road safety measures for single carriageway roads to potentially reduce the number of accidents.<br>
 2. Set up street lights in rural areas,  and cameras to discourage drivers from overspeeding.<br>
-3.Improve Junction Control and Pedestrian Crossing Facilities such as traffic signals and crosswalks.<br><br>
+3. Improve Junction Control and Pedestrian Crossing Facilities such as traffic signals and crosswalks.<br><br>
 
 Our detailed presentation can be found [here.](https://github.com/akankshimody/UK-Road-Accidents-Visual-analysis/blob/master/Data%20Analytics%20Project.pdf)
