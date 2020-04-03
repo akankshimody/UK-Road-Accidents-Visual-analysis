@@ -8,16 +8,16 @@ Road crashes cost USD $518 billion globally, costing individual countries from 1
 
 Our team thus decided to quantitatively dive deeper into this issue.
 
-## Goal of the project:
+## Goal of the project
 Perform Expolatory Data Analysis on a large dataset of UK traffic accidents to find interesting trends and insights and provide recommendations based on the same.
 
-## Data Used:
+## Data Used
 The UK government amassed traffic data from 2000 and 2014, recording over 1.6 million accidents in the process and making this one of the most comprehensive traffic data sets out there. It's a huge picture of a country undergoing change. The Dataset can be found [here.](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales)<br><br>
 
 The dataset comprises of comprehensive information regarding location, time, road and light conditions, etc.<br>
 Some of our variables are: Accident_Severity, Number_of_Vehicles, Number_of_Casualties, Day_of_Week, Time, Road_Type, Speed_limit, Junction_Control, Pedestrian_Crossing-Human_Control, Pedestrian_Crossing-Physical_Facilities, Light_Conditions, Weather_Conditions, Special_Conditions_at_Site, Urban_or_Rural_Area
 
-## Analysis:
+## Analysis
 
 ### Effect of Time
 
